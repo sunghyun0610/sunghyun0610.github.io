@@ -3,6 +3,11 @@ layout: single
 title:  "2022-03-11 컴퓨터 알고리즘 과제"
 date:   2022-03-11 21:52:37 +0900
 ---
+# Computer Algorithym Assignment
+## by 201901671 문성현
+### List
+- markdown 개념과 문법
+- git 문법과 github
 gcc = c언어 컴파일해주는 프로그램
 markdown이란? HTML(hyper text markup language)의 하위 개념으로 markup 필수개념만 사용.
 Jekyll이란? maekdown->HTML변환->웹서버로 구현시켜주는 툴.
