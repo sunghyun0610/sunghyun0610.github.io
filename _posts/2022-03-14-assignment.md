@@ -6,8 +6,15 @@ date:   2022-03-11 21:52:37 +0900
 # Computer Algorithym Assignment
 ## by 201901671 문성현
 ### List
-- markdown 개념과 문법
-- Big 0 개념
+- #### markdown이란?
+##### markdown은 HTML(hyper text markup language)의 하위 개념으로 markup 팔수개념만 사용.
+
+
+- #### 복잡도
+##### 공간복잡도
+##### 시간복잡도 -BIG-O표기법숙지!
+
+
 ![logo](http://i.imgur.com/EPdDmwQ.jpg)
 
 
