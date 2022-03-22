@@ -1,7 +1,8 @@
 ---
-layout: single
-title:  "2022-03-11 컴퓨터 알고리즘 과제"
-date:   2022-03-11 21:52:37 +0900
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2022-03-04 09:52:37 +0900
+categories: jekyll update
 ---
  
 ## 분할 정복
